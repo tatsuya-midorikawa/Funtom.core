@@ -1,1 +1,1 @@
-# Funtom.Core
+# Funtom.core
